@@ -1,0 +1,6 @@
+---
+
+### Wireguard server
+wg_server: true
+
+...

@@ -3,8 +3,8 @@
 - name: 'Ensure Wireguard userland tools and dependencies'
   ansible.builtin.package:
     name:
+      - 'wireguard'
       - 'wireguard-tools'
-
 
 
 ...
